@@ -22,6 +22,8 @@ elif computer_number == 3:
     # Delete pass when you add some code
     pass
 
+
+
 winner = ''
 if player_choice == 'rock':
     # Decide who won and store it in winner
@@ -34,7 +36,7 @@ elif player_choice == 'paper':
 elif player_choice == 'scissors':
     # Decide who won and store it in winner
     # Delete pass when you add some code
-    pass
+    winner = 'fdsa'
 
 
 
